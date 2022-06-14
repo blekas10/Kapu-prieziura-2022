@@ -142,109 +142,14 @@
         </div>
       </div>
     </div>
-
-
-    <div class="testimonials">
-      <div class="testimonials-overlay section-padding">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-10 offset-md-1">
-              <div class="owl-carousel owl-theme">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Betonavimo darbai</h4>
-                    <p>
-                      Pamatų liejimas, tinkavimas, padengimas pasirinkta medžiaga.
-                    </p>
-                  </div>
-                </div>
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Trinkelių klojimas</h4>
-                    <p>
-                      Trinkelių arba plytelių klojimas aplink kapavietę ir jos
-                      viduje.
-                    </p>
-                  </div>
-                </div>
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Dekoravimas</h4>
-                    <p>Kapavietės dekoravimas mulču, smėliu ar skalda.</p>
-                  </div>
-                </div>
-
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Akmens plokštės</h4>
-                    <p>Kapavietės dengimas granito plokštėmis.</p>
-                  </div>
-                </div>
-
-
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Restauravimas</h4>
-                    <p>
-                      Senos, patamsėjusios ir kitaip apsinešusios tvorelės (terasos)
-                      restauravimas.
-                    </p>
-                  </div>
-                </div>
-
-
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Akmens tvorelės ir paminklai</h4>
-                    <p>Tvorelės ir paminklų užsakymas ir montavimas.</p>
-                  </div>
-                </div>
-
-
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Augalų šalinimas</h4>
-                    <p>
-                      Stambiagabaričių augalų (kelmų, krūmų, medžių) pašalinimas iš
-                      kapavietės vidaus.
-                    </p>
-                  </div>
-                </div>
-
-
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Apželdinimas</h4>
-                    <p>Kapavietės apsodinimas pasirinktais augalais.</p>
-                  </div>
-                </div>
-
-
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Kapavietės maketas</h4>
-                    <p>Kapaviečių projektavimas (3D projektų kūrimas).</p>
-                  </div>
-                </div>
-
-
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Po laidotuvių</h4>
-                    <p>Kapavietės tvarkymas po laidotuvių.</p>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
-  <!-- End Testimonials -->
 
-  <!-- 
+
+
+</div>
+<!-- End Testimonials -->
+
+<div class="container">
   <div class="row">
     <div class="col-md-12 section-title text-center">
       <span class="section-title-line"></span>
@@ -361,8 +266,8 @@
     <span class="section-title-line"></span>
   </div>
 </div>
-</div> -->
+</div>
 
-  <!-- End Services -->
+<!-- End Services -->
 
-  <?php include "footer.php"; ?>
+<?php include "footer.php"; ?>

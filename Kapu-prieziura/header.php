@@ -41,7 +41,7 @@
             <a class="nav-link" href="paslaugos.php" target="_blank">Paslaugos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" data-scroll-nav="3">Galerija</a>
+            <a class="nav-link" href="galerija.php" target="_blank">Galerija</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#" data-scroll-nav="4">Kontaktai</a>
