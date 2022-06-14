@@ -35,10 +35,10 @@
             <a class="nav-link" href="" data-scroll-nav="0">Pradžia</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" data-scroll-nav="1">Apie mus</a>
+            <a class="nav-link" href="apie-mus.php" target="_blank">Apie mu</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" data-scroll-nav="2">Paslaugos</a>
+            <a class="nav-link" href="paslaugos.php" target="_blank">Paslaugos</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#" data-scroll-nav="3">Galerija</a>
