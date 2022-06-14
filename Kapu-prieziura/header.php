@@ -31,11 +31,11 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="" data-scroll-nav="0">Pradžia</a>
-          </li>
+          </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="apie-mus.php" target="_blank">Apie mu</a>
+            <a class="nav-link" href="apie-mus.php" target="_blank">Apie mus</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="paslaugos.php" target="_blank">Paslaugos</a>
