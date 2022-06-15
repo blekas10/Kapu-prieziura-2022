@@ -29,9 +29,9 @@
         </div>
         <div class="col-lg-4 col-sm-6 summer no-padding">
           <div class="item-img">
-            <a class="single-image" href="images/FOTO/4.jpg"></a>
+            <a class="single-image" href="images/Akmens plokštės/4.jpg"></a>
             <div class="part-img">
-              <img src="images/FOTO/4.jpg" alt="image" />
+              <img src="images/Akmens plokštės/4.jpg" alt="image" />
               <div class="overlay-img"></div>
             </div>
           </div>
@@ -47,9 +47,9 @@
         </div>
         <div class="col-lg-4 col-sm-6 spring no-padding">
           <div class="item-img">
-            <a class="single-image" href="images/FOTO/20180506_171016.jpg"></a>
+            <a class="single-image" href="images/skaldele/20180506_171016.jpg"></a>
             <div class="part-img">
-              <img src="images/FOTO/20180506_171016.jpg" alt="image" />
+              <img src="images/skaldele/20180506_171016.jpg" alt="image" />
               <div class="overlay-img"></div>
             </div>
           </div>
