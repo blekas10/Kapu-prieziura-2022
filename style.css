@@ -152,7 +152,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a{
   width: 100%;
 }
 .banner-overlay {
-  background: linear-gradient( to bottom, rgb(255 255 255 / 82%) 0%, #000000 100% );
+  background: linear-gradient( to bottom, rgb(255 255 255 / 50%) 0%, #000000 100% );
   padding: 220px 0px 170px;
 }
 
