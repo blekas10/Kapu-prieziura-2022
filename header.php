@@ -14,7 +14,6 @@
   <!-- Font Google -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" />
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
@@ -22,7 +21,7 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg">
     <div class="container">
-      <a class="navbar-brand navbar-logo" href="index.php">
+      <a class="navbar-brand navbar-logo" href="/">
         <img src="images/logo-white.png" alt="logo" class="logo-1" />
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
