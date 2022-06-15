@@ -94,10 +94,10 @@ h6 {
   padding: 0;
 }
 
-nav.navbar.navbar-expand-lg .nav-item a{
+nav.navbar.navbar-expand-lg .nav-item a {
   color: #fff;
 }
-nav.navbar.navbar-expand-lg.nav-scroll .nav-item a{
+nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
   color: #000;
 }
 
@@ -152,7 +152,11 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a{
   width: 100%;
 }
 .banner-overlay {
-  background: linear-gradient( to bottom, rgb(255 255 255 / 50%) 0%, #000000 100% );
+  background: linear-gradient(
+    to bottom,
+    rgb(255 255 255 / 50%) 0%,
+    #000000 100%
+  );
   padding: 220px 0px 170px;
 }
 
@@ -247,7 +251,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a{
   border-radius: 3px;
   margin-top: 30px;
 }
-.anchor-btn:hover{
+.anchor-btn:hover {
   color: #fff !important;
 }
 .bg-grey {
@@ -539,7 +543,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a{
   padding: 7px 0px;
 }
 @media all and (min-width: 991px) {
-  nav.navbar.navbar-expand-lg .nav-item a{
+  nav.navbar.navbar-expand-lg .nav-item a {
     color: black;
   }
 }
@@ -623,4 +627,8 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a{
 }
 
 .paslaugos-more {
+}
+
+.kontaktai-fullviewport {
+  height: 100vh;
 }
