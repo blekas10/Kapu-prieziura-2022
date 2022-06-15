@@ -3,8 +3,7 @@
     <div class="row">
       <div class="col-md-12">
         <p>
-          2018 &copy; Elegant. Website Designed by
-          <a href="http://w3Template.com" target="_blank" rel="dofollow">W3 Template</a>
+          Visos teisės saugomos
         </p>
       </div>
     </div>

@@ -208,388 +208,398 @@
     </div>
 
     <div class="row">
-      <div class="col-md-12 section-title text-center">
-        <span class="section-title-line"></span>
-      </div>
-      <div class="col-md-12 section-title text-center paslaugos-more">
-        <h3>Tai pat atliekame šias paslaugas</h3>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Betonavimo darbai</h4>
-            <p>
-              Pamatų liejimas, tinkavimas, padengimas pasirinkta medžiaga.
-            </p>
-          </div>
+        <div class="col-md-12 section-title text-center">
+          <span class="section-title-line"></span>
+        </div>
+        <div class="col-md-12 section-title text-center paslaugos-more">
+          <h3>Tai pat atliekame šias paslaugas</h3>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Trinkelių klojimas</h4>
-            <p>
-              Trinkelių arba plytelių klojimas aplink kapavietę ir jos
-              viduje.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Dekoravimas</h4>
-            <p>Kapavietės dekoravimas mulču, smėliu ar skalda.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Akmens plokštės</h4>
-            <p>Kapavietės dengimas granito plokštėmis.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Restauravimas</h4>
-            <p>
-              Senos, patamsėjusios ir kitaip apsinešusios tvorelės (terasos)
-              restauravimas.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Akmens tvorelės ir paminklai</h4>
-            <p>Tvorelės ir paminklų užsakymas ir montavimas.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Augalų šalinimas</h4>
-            <p>
-              Stambiagabaričių augalų (kelmų, krūmų, medžių) pašalinimas iš
-              kapavietės vidaus.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Apželdinimas</h4>
-            <p>Kapavietės apsodinimas pasirinktais augalais.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Kapavietės maketas</h4>
-            <p>Kapaviečių projektavimas (3D projektų kūrimas).</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
-        <div class="service-box bg-white text-center">
-          <div class="icon-text">
-            <h4 class="title-box">Po laidotuvių</h4>
-            <p>Kapavietės tvarkymas po laidotuvių.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-12 section-title text-center">
-      <h3>Atliekame ir kitus darbus!</h3>
-      <p>
-        Išrašome sąskaitas faktūras, teikiame garantiją atliktiems darbams!
-      </p>
-      <p>Mūsų komanda realizuos jūsų idėjas</p>
-      <p>Garantuojame gerą kainos ir kokybės santykį!</p>
-      <p>
-        Prieš pradedant darbus už nedidelį mokestį galime suprojektuoti 3D
-        modelį, kad galėtumėt pamatyti kaip atrodys jūsų pasirinktas
-        dizainas
-      </p>
-      <p>Galimas atsiskaitymas IŠSIMOKĖTINAI net iki 5 metų</p>
-      <p>DIRBAME VISOJE LIETUVOJE!</p>
-      <span class="section-title-line"></span>
-    </div>
-  </div>
-</div>
 
-<!-- End Services -->
-
-<!-- Gallery -->
-<div class="portfolio section-padding" data-scroll-index="3">
-  <div class="container-fluid">
     <div class="row">
-      <div class="col-lg-12 section-title text-center">
-        <h3>Galerija</h3>
-        <p>Mųsū atliktos paslaugos</p>
+      <div class="services container">
+        <div class="owl-carousel owl-theme">
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Betonavimo darbai</h4>
+                <p>
+                  Pamatų liejimas, tinkavimas, padengimas pasirinkta medžiaga.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Trinkelių klojimas</h4>
+                <p>
+                  Trinkelių arba plytelių klojimas aplink kapavietę ir jos
+                  viduje.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Dekoravimas</h4>
+                <p>Kapavietės dekoravimas mulču, smėliu ar skalda.</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Akmens plokštės</h4>
+                <p>Kapavietės dengimas granito plokštėmis.</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Restauravimas</h4>
+                <p>
+                  Senos, patamsėjusios ir kitaip apsinešusios tvorelės (terasos)
+                  restauravimas.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Akmens tvorelės ir paminklai</h4>
+                <p>Tvorelės ir paminklų užsakymas ir montavimas.</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Augalų šalinimas</h4>
+                <p>
+                  Stambiagabaričių augalų (kelmų, krūmų, medžių) pašalinimas iš
+                  kapavietės vidaus.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Apželdinimas</h4>
+                <p>Kapavietės apsodinimas pasirinktais augalais.</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Kapavietės maketas</h4>
+                <p>Kapaviečių projektavimas (3D projektų kūrimas).</p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="service-box bg-white text-center">
+              <div class="icon-text">
+                <h4 class="title-box">Po laidotuvių</h4>
+                <p>Kapavietės tvarkymas po laidotuvių.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <div class="col-md-12 section-title text-center">
+        <h3>Atliekame ir kitus darbus!</h3>
+        <p>
+          Išrašome sąskaitas faktūras, teikiame garantiją atliktiems darbams!
+        </p>
+        <p>Mūsų komanda realizuos jūsų idėjas</p>
+        <p>Garantuojame gerą kainos ir kokybės santykį!</p>
+        <p>
+          Prieš pradedant darbus už nedidelį mokestį galime suprojektuoti 3D
+          modelį, kad galėtumėt pamatyti kaip atrodys jūsų pasirinktas
+          dizainas
+        </p>
+        <p>Galimas atsiskaitymas IŠSIMOKĖTINAI net iki 5 metų</p>
+        <p>DIRBAME VISOJE LIETUVOJE!</p>
         <span class="section-title-line"></span>
       </div>
-      <div class="filtering text-center mb-30">
-        <button type="button" data-filter="*" class="active">Visi</button>
-        <button type="button" data-filter=".summer">Akmens ploštės</button>
-        <button type="button" data-filter=".winter">Granito plytelės</button>
-        <button type="button" data-filter=".rainy">Akmens skaldelė</button>
-        <button type="button" data-filter=".spring">Įvairūs gerbūvio darbai</button>
-      </div>
-      <div class="gallery no-padding col-lg-12 col-sm-12">
-        <div class="col-lg-4 col-sm-6 spring no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/1.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/1.jpg" alt="image" />
-              <div class="overlay-img"></div>
+    </div>
+  </div>
+
+  <!-- End Services -->
+
+  <!-- Gallery -->
+  <div class="portfolio section-padding" data-scroll-index="3">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12 section-title text-center">
+          <h3>Galerija</h3>
+          <p>Mųsū atliktos paslaugos</p>
+          <span class="section-title-line"></span>
+        </div>
+        <div class="filtering text-center mb-30">
+          <button type="button" data-filter="*" class="active">Visi</button>
+          <button type="button" data-filter=".summer">Akmens ploštės</button>
+          <button type="button" data-filter=".winter">Granito plytelės</button>
+          <button type="button" data-filter=".rainy">Akmens skaldelė</button>
+          <button type="button" data-filter=".spring">Įvairūs gerbūvio darbai</button>
+        </div>
+        <div class="gallery no-padding col-lg-12 col-sm-12">
+          <div class="col-lg-4 col-sm-6 spring no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/1.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/1.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 spring no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/4.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/4.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 spring no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/4.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/4.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 spring no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/8.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/8.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 spring no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/8.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/8.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 summer no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20180506_171016.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20180506_171016.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 summer no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20180506_171016.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20180506_171016.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 winter no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20181017_094035.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20181017_094035.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 winter no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20181017_094035.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20181017_094035.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20190304_160541.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20190304_160541.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 rainy no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20190304_160541.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20190304_160541.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 summer no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20190614_192508.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20190614_192508.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 summer no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20190614_192508.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20190614_192508.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20200717_133111.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20200717_133111.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 rainy no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20200717_133111.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20200717_133111.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20210827_181031.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20210827_181031.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 rainy no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20210827_181031.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20210827_181031.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20160819_175741.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20160819_175741.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 rainy no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20160819_175741.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20160819_175741.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20210824_173605.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20210824_173605.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 rainy no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20210824_173605.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20210824_173605.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 summer no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20200721_153324.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20200721_153324.jpg" alt="image" />
-              <div class="overlay-img"></div>
+          <div class="col-lg-4 col-sm-6 summer no-padding">
+            <div class="item-img">
+              <a class="single-image" href="images/FOTO/20200721_153324.jpg"></a>
+              <div class="part-img">
+                <img src="images/FOTO/20200721_153324.jpg" alt="image" />
+                <div class="overlay-img"></div>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
-<!-- End Gallery -->
-<!-- Testimonials -->
-<div class="testimonials">
-  <div class="testimonials-overlay section-padding">
+  <!-- End Gallery -->
+  <!-- Testimonials -->
+  <div class="testimonials">
+    <div class="testimonials-overlay section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 offset-md-1">
+            <div class="owl-carousel owl-theme">
+              <div class="testimonial-item text-center">
+                <div class="icon"><i class="fas fa-comments"></i></div>
+                <p class="m-auto">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna
+                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                  ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </p>
+                <div class="testimonial-author text-center">
+                  <h5>Rup Jakhar</h5>
+                  <h6>Web Desinger</h6>
+                </div>
+              </div>
+              <div class="testimonial-item text-center">
+                <div class="icon"><i class="fas fa-comments"></i></div>
+                <p class="m-auto">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna
+                  aliqua.
+                </p>
+                <div class="testimonial-author text-center">
+                  <h5>Yogesh Singh</h5>
+                  <h6>Web Desinger</h6>
+                </div>
+              </div>
+              <div class="testimonial-item text-center">
+                <div class="icon"><i class="fas fa-comments"></i></div>
+                <p class="m-auto">
+                  Sed do eiusmod tempor incididunt ut labore et dolore magna
+                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                  ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </p>
+                <div class="testimonial-author text-center">
+                  <h5>Vivek Singh</h5>
+                  <h6>Web Desinger</h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Testimonials -->
+
+  <!-- Contact -->
+  <div class="contact section-padding" data-scroll-index="4">
     <div class="container">
       <div class="row">
-        <div class="col-md-10 offset-md-1">
-          <div class="owl-carousel owl-theme">
-            <div class="testimonial-item text-center">
-              <div class="icon"><i class="fas fa-comments"></i></div>
-              <p class="m-auto">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna
-                aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              </p>
-              <div class="testimonial-author text-center">
-                <h5>Rup Jakhar</h5>
-                <h6>Web Desinger</h6>
+        <div class="col-md-12 section-title text-center">
+          <h3>Susisiekite su mumis nemokamai konsultacijai</h3>
+          <p>
+            Jeigu sudomins pasiūlymai aptarsime jums patogu laiką ir vietą
+            susitikimui gyvai.
+          </p>
+          <p>
+            Jeigu turite nuotrauka ar projektą kurio norite supildykite žemiau
+            užklausą prisegdami dokumentą ar nuotrauką bei supildykite
+            kontaktinius duomenis ir per 24val. Suteiksime jums atsakymą.
+          </p>
+          <span class="section-title-line"></span>
+        </div>
+        <div class="col-lg-5 col-md-4">
+          <div class="part-info">
+            <div class="info-box">
+              <div class="icon"><i class="fas fa-phone"></i></div>
+              <div class="content">
+                <h4>Tel. numeris</h4>
+                <p>+37064346669</p>
               </div>
             </div>
-            <div class="testimonial-item text-center">
-              <div class="icon"><i class="fas fa-comments"></i></div>
-              <p class="m-auto">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna
-                aliqua.
-              </p>
-              <div class="testimonial-author text-center">
-                <h5>Yogesh Singh</h5>
-                <h6>Web Desinger</h6>
+            <div class="info-box">
+              <div class="icon"><i class="fas fa-map-marker-alt"></i></div>
+              <div class="content">
+                <h4>Facebook</h4>
+                <p>Kapavietės įrengimo ir restauravimo darbai</p>
               </div>
             </div>
-            <div class="testimonial-item text-center">
-              <div class="icon"><i class="fas fa-comments"></i></div>
-              <p class="m-auto">
-                Sed do eiusmod tempor incididunt ut labore et dolore magna
-                aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              </p>
-              <div class="testimonial-author text-center">
-                <h5>Vivek Singh</h5>
-                <h6>Web Desinger</h6>
+            <div class="info-box">
+              <div class="icon"><i class="fas fa-envelope"></i></div>
+              <div class="content">
+                <h4>El. Paštas</h4>
+                <p><a href="#"></a>espotmb@gmail.com</p>
               </div>
             </div>
+          </div>
+        </div>
+        <div class="col-lg-7 col-md-8">
+          <div class="contact-form">
+            <form class="form" id="contact-form" method="post" data-toggle="validator">
+              <input type="hidden" name="form-name" value="contact-form" />
+              <div class="messages"></div>
+              <div class="controls">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <div class="form-group">
+                      <input id="form_name" type="text" name="name" placeholder="Vardas *" required data-error="Laukelis privalomas." />
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="form-group">
+                      <input id="form_email" type="email" name="email" placeholder="El. paštas *" required data-error="Laukelis privalomas." />
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="col-lg-12">
+                    <div class="form-group">
+                      <input id="form_subject" type="text" name="subject" placeholder="Tema" />
+                    </div>
+                  </div>
+                  <div class="col-lg-12 form-group">
+                    <textarea id="form_message" name="message" class="form-control" placeholder=" Žinutė " rows="4" required data-error="Please,leave us a message."></textarea>
+                    <div class="help-block with-errors"></div>
+                  </div>
+                  <div class="col-lg-12 text-center">
+                    <button class="bttn">Siūsti</button>
+                  </div>
+                </div>
+              </div>
+            </form>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
-<!-- End Testimonials -->
+  <!-- End Contact -->
 
-<!-- Contact -->
-<div class="contact section-padding" data-scroll-index="4">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 section-title text-center">
-        <h3>Susisiekite su mumis nemokamai konsultacijai</h3>
-        <p>
-          Jeigu sudomins pasiūlymai aptarsime jums patogu laiką ir vietą
-          susitikimui gyvai.
-        </p>
-        <p>
-          Jeigu turite nuotrauka ar projektą kurio norite supildykite žemiau
-          užklausą prisegdami dokumentą ar nuotrauką bei supildykite
-          kontaktinius duomenis ir per 24val. Suteiksime jums atsakymą.
-        </p>
-        <span class="section-title-line"></span>
-      </div>
-      <div class="col-lg-5 col-md-4">
-        <div class="part-info">
-          <div class="info-box">
-            <div class="icon"><i class="fas fa-phone"></i></div>
-            <div class="content">
-              <h4>Tel. numeris</h4>
-              <p>+37064346669</p>
-            </div>
-          </div>
-          <div class="info-box">
-            <div class="icon"><i class="fas fa-map-marker-alt"></i></div>
-            <div class="content">
-              <h4>Facebook</h4>
-              <p>Kapavietės įrengimo ir restauravimo darbai</p>
-            </div>
-          </div>
-          <div class="info-box">
-            <div class="icon"><i class="fas fa-envelope"></i></div>
-            <div class="content">
-              <h4>El. Paštas</h4>
-              <p><a href="#"></a>espotmb@gmail.com</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-7 col-md-8">
-        <div class="contact-form">
-          <form class="form" id="contact-form" method="post" data-toggle="validator">
-            <input type="hidden" name="form-name" value="contact-form" />
-            <div class="messages"></div>
-            <div class="controls">
-              <div class="row">
-                <div class="col-lg-6">
-                  <div class="form-group">
-                    <input id="form_name" type="text" name="name" placeholder="Vardas *" required data-error="Laukelis privalomas." />
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-lg-6">
-                  <div class="form-group">
-                    <input id="form_email" type="email" name="email" placeholder="El. paštas *" required data-error="Laukelis privalomas." />
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-lg-12">
-                  <div class="form-group">
-                    <input id="form_subject" type="text" name="subject" placeholder="Tema" />
-                  </div>
-                </div>
-                <div class="col-lg-12 form-group">
-                  <textarea id="form_message" name="message" class="form-control" placeholder=" Žinutė " rows="4" required data-error="Please,leave us a message."></textarea>
-                  <div class="help-block with-errors"></div>
-                </div>
-                <div class="col-lg-12 text-center">
-                  <button class="bttn">Siūsti</button>
-                </div>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- End Contact -->
-
-<?php include "footer.php"; ?>
+  <?php include "footer.php"; ?>

@@ -11,7 +11,6 @@
   <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.min.css" />
   <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css" />
   <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css" />
-
   <!-- Font Google -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" />
