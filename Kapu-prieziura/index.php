@@ -336,13 +336,13 @@
         <p>Mųsū atliktos paslaugos</p>
         <span class="section-title-line"></span>
       </div>
-      <!-- <div class="filtering text-center mb-30">
-            <button type="button" data-filter="*" class="active">All</button>
-            <button type="button" data-filter=".summer">Summer</button>
-            <button type="button" data-filter=".winter">Winter</button>
-            <button type="button" data-filter=".rainy">Rainy</button>
-            <button type="button" data-filter=".spring">Spring</button>
-          </div> -->
+      <div class="filtering text-center mb-30">
+        <button type="button" data-filter="*" class="active">Visi</button>
+        <button type="button" data-filter=".summer">Akmens ploštės</button>
+        <button type="button" data-filter=".winter">Granito plytelės</button>
+        <button type="button" data-filter=".rainy">Akmens skaldelė</button>
+        <button type="button" data-filter=".spring">Įvairūs gerbūvio darbai</button>
+      </div>
       <div class="gallery no-padding col-lg-12 col-sm-12">
         <div class="col-lg-4 col-sm-6 spring no-padding">
           <div class="item-img">
