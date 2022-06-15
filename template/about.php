@@ -34,8 +34,10 @@
           <img src="images/about.jpg" alt="" class="img-responsive" />
         </div>
       </div>
+ 
     </div>
   </div>
 </div>
+
 
 <!-- End About -->

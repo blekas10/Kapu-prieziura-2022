@@ -127,21 +127,23 @@
     autoplay: true,
     margin: 30,
     dots: true,
+    autoplayTimeout: 3000,
     nav: false,
   });
   $(".new.owl-carousel").owlCarousel({
-        loop: true,
-        autoplay: true,
-        margin: 30,
-        dots: true,
-        nav: false,
-        responsive: {
-          0: {
-            items: 1
-          }
-        }
+    loop: true,
+    autoplay: true,
+    margin: 30,
+    dots: true,
+    nav: false,
+    autoplayTimeout: 3000,
+    responsive: {
+      0: {
+        items: 1
+      }
+    }
 
-        });
+  });
 </script>
 </body>
 

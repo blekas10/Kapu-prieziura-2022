@@ -60,6 +60,25 @@
   </div>
 </div>
 
+<div class="col-md-12 section-title text-center">
+        <h3>Atliekame ir kitus darbus!</h3>
+        <p>
+          Išrašome sąskaitas faktūras, teikiame garantiją atliktiems darbams!
+        </p>
+        <p>Mūsų komanda realizuos jūsų idėjas</p>
+        <p>Garantuojame gerą kainos ir kokybės santykį!</p>
+        <p>
+          Prieš pradedant darbus už nedidelį mokestį galime suprojektuoti 3D
+          modelį, kad galėtumėt pamatyti kaip atrodys jūsų pasirinktas
+          dizainas
+        </p>
+        <p>Galimas atsiskaitymas IŠSIMOKĖTINAI net iki 5 metų</p>
+        <p>DIRBAME VISOJE LIETUVOJE!</p>
+      </div>
+</div>
+
+
+
 <!-- End About -->
 
 

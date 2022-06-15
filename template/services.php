@@ -1,12 +1,10 @@
 <!-- Services -->
-<div class=" section-padding bg-grey" data-scroll-index="2">
-
+<div class="section-padding bg-grey" data-scroll-index="2">
   <div class="container">
     <div class="row">
       <div class="col-md-12 section-title text-center">
         <h3>Mūsų paslaugos</h3>
         <p>Esame vieni geriausi kapų priežiūros specialistų Lietuvoje!</p>
-        <span class="section-title-line"></span>
       </div>
 
       <div class="new owl-carousel owl-theme">
@@ -138,124 +136,108 @@
         </div>
       </div>
 
-        <div class="col-md-12 section-title text-center paslaugos-more">
-          <h3>Tai pat atliekame šias paslaugas</h3>
-        </div>
+      <div class="col-md-12 section-title text-center paslaugos-more">
+        <h3>Tai pat atliekame šias paslaugas</h3>
+      </div>
 
-        <div class="row">
-          <div class="services container">
-            <div class="owl-carousel owl-theme">
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Betonavimo darbai</h4>
-                    <p>
-                      Pamatų liejimas, tinkavimas, padengimas pasirinkta medžiaga.
-                    </p>
-                  </div>
+      <div class="row">
+        <div class="services container">
+          <div class="owl-carousel owl-theme">
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Betonavimo darbai</h4>
+                  <p>
+                    Pamatų liejimas, tinkavimas, padengimas pasirinkta medžiaga.
+                  </p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Trinkelių klojimas</h4>
-                    <p>
-                      Trinkelių arba plytelių klojimas aplink kapavietę ir jos
-                      viduje.
-                    </p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Trinkelių klojimas</h4>
+                  <p>
+                    Trinkelių arba plytelių klojimas aplink kapavietę ir jos
+                    viduje.
+                  </p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Dekoravimas</h4>
-                    <p>Kapavietės dekoravimas mulču, smėliu ar skalda.</p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Dekoravimas</h4>
+                  <p>Kapavietės dekoravimas mulču, smėliu ar skalda.</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Akmens plokštės</h4>
-                    <p>Kapavietės dengimas granito plokštėmis.</p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Akmens plokštės</h4>
+                  <p>Kapavietės dengimas granito plokštėmis.</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Restauravimas</h4>
-                    <p>
-                      Senos, patamsėjusios ir kitaip apsinešusios tvorelės (terasos)
-                      restauravimas.
-                    </p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Restauravimas</h4>
+                  <p>
+                    Senos, patamsėjusios ir kitaip apsinešusios tvorelės (terasos)
+                    restauravimas.
+                  </p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Akmens tvorelės ir paminklai</h4>
-                    <p>Tvorelės ir paminklų užsakymas ir montavimas.</p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Akmens tvorelės ir paminklai</h4>
+                  <p>Tvorelės ir paminklų užsakymas ir montavimas.</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Augalų šalinimas</h4>
-                    <p>
-                      Stambiagabaričių augalų (kelmų, krūmų, medžių) pašalinimas iš
-                      kapavietės vidaus.
-                    </p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Augalų šalinimas</h4>
+                  <p>
+                    Stambiagabaričių augalų (kelmų, krūmų, medžių) pašalinimas iš
+                    kapavietės vidaus.
+                  </p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Apželdinimas</h4>
-                    <p>Kapavietės apsodinimas pasirinktais augalais.</p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Apželdinimas</h4>
+                  <p>Kapavietės apsodinimas pasirinktais augalais.</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Kapavietės maketas</h4>
-                    <p>Kapaviečių projektavimas (3D projektų kūrimas).</p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Kapavietės maketas</h4>
+                  <p>Kapaviečių projektavimas (3D projektų kūrimas).</p>
                 </div>
               </div>
-              <div class="item">
-                <div class="service-box bg-white text-center">
-                  <div class="icon-text">
-                    <h4 class="title-box">Po laidotuvių</h4>
-                    <p>Kapavietės tvarkymas po laidotuvių.</p>
-                  </div>
+            </div>
+            <div class="item">
+              <div class="service-box bg-white text-center">
+                <div class="icon-text">
+                  <h4 class="title-box">Po laidotuvių</h4>
+                  <p>Kapavietės tvarkymas po laidotuvių.</p>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="col-md-12 section-title text-center">
-            <h3>Atliekame ir kitus darbus!</h3>
-            <p>
-              Išrašome sąskaitas faktūras, teikiame garantiją atliktiems darbams!
-            </p>
-            <p>Mūsų komanda realizuos jūsų idėjas</p>
-            <p>Garantuojame gerą kainos ir kokybės santykį!</p>
-            <p>
-              Prieš pradedant darbus už nedidelį mokestį galime suprojektuoti 3D
-              modelį, kad galėtumėt pamatyti kaip atrodys jūsų pasirinktas
-              dizainas
-            </p>
-            <p>Galimas atsiskaitymas IŠSIMOKĖTINAI net iki 5 metų</p>
-            <p>DIRBAME VISOJE LIETUVOJE!</p>
-            <span class="section-title-line"></span>
-          </div>
         </div>
       </div>
     </div>
-    <!-- End Services -->
+  </div>
+</div>
+<!-- End Services -->
