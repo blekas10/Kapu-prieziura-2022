@@ -44,7 +44,7 @@
             <a class="nav-link" href="galerija.php" target="_self">Galerija</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" data-scroll-nav="4">Kontaktai</a>
+            <a class="nav-link" href="kontaktai.php" target="_self">Kontaktai</a>
           </li>
         </ul>
       </div>
