@@ -32,7 +32,7 @@
       $(".navbar-logo img").attr("src", "images/logo-black.png");
     } else {
       navbar.removeClass("nav-scroll");
-      $(".navbar-logo img").attr("src", "images/logo-white.png");
+      $(".navbar-logo img").attr("src", "images/logo-black.png");
     }
   });
 
@@ -120,6 +120,16 @@
       nav: false,
     });
   });
+    /* Owl Caroursel services
+  -------------------------------------------------------*/
+
+    $(".services .owl-carousel").owlCarousel({
+      loop: true,
+      autoplay: true,
+      margin: 30,
+      dots: true,
+      nav: false,
+    });
 </script>
 </body>
 

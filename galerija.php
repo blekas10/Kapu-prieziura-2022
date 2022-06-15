@@ -230,5 +230,4 @@
   </div>
 </div>
 <!-- End Gallery -->
-
 <?php include "footer.php"; ?>
