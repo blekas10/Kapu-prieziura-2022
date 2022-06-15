@@ -119,16 +119,29 @@
       nav: false,
     });
   });
-    /* Owl Caroursel services
+  /* Owl Caroursel services
   -------------------------------------------------------*/
 
-    $(".services .owl-carousel").owlCarousel({
-      loop: true,
-      autoplay: true,
-      margin: 30,
-      dots: true,
-      nav: false,
-    });
+  $(".services .owl-carousel").owlCarousel({
+    loop: true,
+    autoplay: true,
+    margin: 30,
+    dots: true,
+    nav: false,
+  });
+  $(".new.owl-carousel").owlCarousel({
+        loop: true,
+        autoplay: true,
+        margin: 30,
+        dots: true,
+        nav: false,
+        responsive: {
+          0: {
+            items: 1
+          }
+        }
+
+        });
 </script>
 </body>
 

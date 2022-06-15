@@ -259,6 +259,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a{
   background: #ffffff;
 }
 .service-box {
+  min-height: 240px;
   padding: 50px;
   border-radius: 4px;
   -webkit-box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
