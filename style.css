@@ -594,6 +594,9 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
   .banner-overlay {
     padding: 150px 0px 100px;
   }
+  body {
+    padding: 0 10px;
+  }
 }
 .apie-mus-ul {
   line-height: 1.9rem;
