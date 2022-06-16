@@ -7,8 +7,7 @@
         <p>Esame vieni geriausi kapų priežiūros specialistų Lietuvoje!</p>
       </div>
 
-      <div class="new owl-carousel owl-theme">
-        <div class="item">
+
           <div class="row">
             <div class="col-md-6 mb-50">
               <div class="section-img">
@@ -57,7 +56,6 @@
             </div>
           </div>
         </div>
-        <div class="item">
           <div class="row">
             <div class="col-md-6 mb-50">
               <div class="section-info">
@@ -94,9 +92,7 @@
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="item">
           <div class="row">
             <div class="col-md-6 mb-50">
               <div class="section-img">
@@ -134,9 +130,8 @@
             </div>
           </div>
         </div>
-      </div>
 
-      <div class="col-md-12 section-title text-center paslaugos-more">
+        <div class="col-md-12 section-title text-center paslaugos-more">
         <h3>Tai pat atliekame šias paslaugas</h3>
       </div>
 

@@ -30,7 +30,6 @@
           Esame meistrų komanda, kapų tvarkymu, užsiimanti jau dešimtmetį.
           Darbus atliekame greitai, kokybiškai ir už prieinamą kainą.
         </p>
-        <span class="section-title-line"></span>
       </div>
       <div class="col-md-6 mb-50">
         <div class="section-info">
