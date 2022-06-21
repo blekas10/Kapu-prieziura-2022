@@ -15,10 +15,10 @@
         <button type="button" data-filter=".summer">Akmens plokštės</button>
         <button type="button" data-filter=".winter">Granito plytelės</button>
         <button type="button" data-filter=".spring">Akmens skaldelė</button>
-
         <button type="button" data-filter=".3d-vizualizacijos">3D Vizualizacijos</button>
         <button type="button" data-filter=".dekoravimas-smeliu">Dekoravimas smėliu</button>
         <button type="button" data-filter=".trinkeles">Trinkelės</button>
+        <button type="button" data-filter=".paminklai">Paminklai</button>
       </div>
       <div class="gallery no-padding col-lg-12 col-sm-12">
         <div class="col-lg-4 col-sm-6 summer no-padding">
@@ -276,6 +276,48 @@
             </div>
           </div>
         </div>
+
+
+        <div class="col-lg-4 col-sm-6 paminklai no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/paminklai-foto/185.png"></a>
+            <div class="part-img">
+              <img src="images/paminklai-foto/185.png" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 paminklai no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/paminklai-foto/308.png"></a>
+            <div class="part-img">
+              <img src="images/paminklai-foto/308.png" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 paminklai no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/paminklai-foto/1002.png"></a>
+            <div class="part-img">
+              <img src="images/paminklai-foto/1002.png" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 paminklai no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/paminklai-foto/1293.png"></a>
+            <div class="part-img">
+              <img src="images/paminklai-foto/1293.png" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
