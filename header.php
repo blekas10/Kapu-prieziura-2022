@@ -44,8 +44,6 @@
               <a class="dropdown-item" href="akmens-skaldele.php">Akmens skaldelė</a>
               <a class="dropdown-item" href="akmens-plyteles.php">Granito plytelės</a>
               <a class="dropdown-item" href="paminklai.php">Paminklai</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="paslaugos.php">Visos paslaugos</a>
             </div>
           </li>
           <li class="nav-item">

@@ -11,8 +11,7 @@
         <span class="section-title-line"></span>
       </div>
       <div class="filtering text-center mb-30">
-        <button type="button" data-filter="*" class="active">Visi</button>
-        <button type="button" data-filter=".summer">Akmens plokštės</button>
+        <button type="button" data-filter=".summer" class="active">Akmens plokštės</button>
         <button type="button" data-filter=".winter">Granito plytelės</button>
         <button type="button" data-filter=".spring">Akmens skaldelė</button>
         <button type="button" data-filter=".3d-vizualizacijos">3D Vizualizacijos</button>

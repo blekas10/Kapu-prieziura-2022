@@ -639,7 +639,6 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
 .nav-item:hover {
   margin: 0 5px;
   padding: 0;
-  background-color: rgba(255, 255, 255, 0.722);
   transition: 1s;
   border-radius: 5px;
 }
