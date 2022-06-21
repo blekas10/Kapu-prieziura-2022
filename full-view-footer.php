@@ -1,4 +1,4 @@
-<footer class="footer-copy">
+<footer class="footer-copy full-view-footer">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
