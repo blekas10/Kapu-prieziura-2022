@@ -179,6 +179,7 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
 .banner-btn:hover {
   background: #ffffff;
   color: #000;
+  transition: 1.5s;
 }
 .section-padding {
   padding: 100px 0px;
@@ -254,7 +255,11 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
   margin-top: 30px;
 }
 .anchor-btn:hover {
-  color: #fff !important;
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.052);
+  transition: 1s;
+  border: solid 1px #000;
+  cursor: pointer;
 }
 .bg-grey {
   background-color: #fafafa;
@@ -547,6 +552,9 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
 @media all and (min-width: 991px) {
   nav.navbar.navbar-expand-lg .nav-item a {
     color: black;
+  }
+  .sub-title-paragraph {
+    margin-top: 5rem;
   }
 }
 @media all and (max-width: 991px) {

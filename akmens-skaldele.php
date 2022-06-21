@@ -33,7 +33,7 @@
                 </li>
 
               </ul>
-              <!-- <ol>
+              <ol>
                 <li>
                   1. Aplinką. Renkantis skaldą labai svarbu atkreipti dėmesį
                   į kapavietės vietą ir supančią aplinką.
@@ -49,9 +49,9 @@
                   apkraunamas spalvų įvairove nederinant skaldos su paminklu
                   ir pasodintais augalais.
                 </li>
-              </ol> -->
+              </ol>
             </div>
-            <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+            <!-- <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a> -->
           </div>
         </div>
       </div>

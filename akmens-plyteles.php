@@ -30,19 +30,19 @@
                   plyteles nebus galimybės jų užklijuoti atgal (reikės iš
                   naujo betonuoti pagrindą)
                 </li>
-                <!-- <li>PRIVALUMAI:</li>
-              <li>Tai ilgaamžis kapo sutvarkymas</li>
-              <li>
-                Lengva priežiūra, kuriai nereikia nei daug laiko, nei
-                pastangų
-              </li>
-              <li>
-                Finansiškai naudingas sprendimas (pigesnis variantas nei
-                kapo dengimas plokštėmis).
-              </li> -->
+                <li>PRIVALUMAI:</li>
+                <li>Tai ilgaamžis kapo sutvarkymas</li>
+                <li>
+                  Lengva priežiūra, kuriai nereikia nei daug laiko, nei
+                  pastangų
+                </li>
+                <li>
+                  Finansiškai naudingas sprendimas (pigesnis variantas nei
+                  kapo dengimas plokštėmis).
+                </li>
               </ul>
             </div>
-            <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+            <!-- <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a> -->
           </div>
         </div>
       </div>

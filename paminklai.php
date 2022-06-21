@@ -47,7 +47,7 @@
                 </li>
               </ol> -->
             </div>
-            <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+            <!-- <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a> -->
           </div>
         </div>
       </div>

@@ -27,15 +27,15 @@
                   rekonstravimo darbų, o palaidojus velionį belieka ją
                   grąžinti į buvusią padėtį.
                 </li>
-                <!-- <li>
-                Lengva ir paprasta priežiūra, neauga piktžolės ir nereikės
-                daug laiko skirti kapo tvarkymui, nes viskas, ką turėsite
-                periodiškai atlikti, tai nušluostyti dulkes ir nuvalyti
-                spyglius bei lapus nuo plokštelių paviršiaus.
-              </li> -->
+                <li>
+                  Lengva ir paprasta priežiūra, neauga piktžolės ir nereikės
+                  daug laiko skirti kapo tvarkymui, nes viskas, ką turėsite
+                  periodiškai atlikti, tai nušluostyti dulkes ir nuvalyti
+                  spyglius bei lapus nuo plokštelių paviršiaus.
+                </li>
               </ul>
             </div>
-            <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a>
+            <!-- <a href="#" class="anchor-btn">Sužinok daugiau <i class="fas fa-arrow-right pd-lt-10"></i></a> -->
           </div>
         </div>
         <div class="col-md-6 mb-50">

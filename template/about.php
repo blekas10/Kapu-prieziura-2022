@@ -3,7 +3,7 @@
 <div class="about-us section-padding" data-scroll-index="1">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 section-title text-center">
+      <div class="col-md-12 section-title text-center mb-3">
         <h3>Esame savo srities specialistai</h3>
         <p>
           Esame meistrų komanda, kapų tvarkymu, užsiimanti jau dešimtmetį.
@@ -33,7 +33,7 @@
           <img src="images/about.jpg" alt="" class="img-responsive" />
         </div>
       </div>
- 
+
     </div>
   </div>
 </div>
