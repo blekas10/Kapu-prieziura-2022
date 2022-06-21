@@ -147,6 +147,8 @@ nav.navbar.navbar-expand-lg.nav-scroll .nav-item a {
 }
 .banner {
   background: url(images/FOTO/20220610_111459.jpg) no-repeat 0% 0% / 100% 100%;
+  background-size: cover;
+  background-position: center left;
   color: #ffffff;
   text-align: center;
   width: 100%;
