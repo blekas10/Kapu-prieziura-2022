@@ -1,7 +1,7 @@
   <!-- Contact -->
   <div class="contact section-padding" data-scroll-index="4">
     <div class="container">
-      <div class="row">
+      <div class="row mb-5">
         <div class="col-md-12 section-title text-center">
           <h3>Susisiekite su mumis nemokamai konsultacijai</h3>
           <p>

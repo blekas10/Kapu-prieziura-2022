@@ -15,7 +15,10 @@
         <button type="button" data-filter=".summer">Akmens plokštės</button>
         <button type="button" data-filter=".winter">Granito plytelės</button>
         <button type="button" data-filter=".spring">Akmens skaldelė</button>
-        <button type="button" data-filter=".rainy">Įvairūs gerbūvio darbai</button>
+
+        <button type="button" data-filter=".3d-vizualizacijos">3D Vizualizacijos</button>
+        <button type="button" data-filter=".dekoravimas-smeliu">Dekoravimas smėliu</button>
+        <button type="button" data-filter=".trinkeles">Trinkelės</button>
       </div>
       <div class="gallery no-padding col-lg-12 col-sm-12">
         <div class="col-lg-4 col-sm-6 summer no-padding">
@@ -81,51 +84,11 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20200717_133111.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20200717_133111.jpg" alt="image" />
-              <div class="overlay-img"></div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20210827_181031.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20210827_181031.jpg" alt="image" />
-              <div class="overlay-img"></div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20160819_175741.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20160819_175741.jpg" alt="image" />
-              <div class="overlay-img"></div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20210824_173605.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20210824_173605.jpg" alt="image" />
-              <div class="overlay-img"></div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20200721_153324.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20200721_153324.jpg" alt="image" />
-              <div class="overlay-img"></div>
-            </div>
-          </div>
-        </div>
+
+
+
+
+
         <div class="col-lg-4 col-sm-6 summer no-padding">
           <div class="item-img">
             <a class="single-image" href="images/Akmens plokštės/20200610_151450.jpg"></a>
@@ -153,7 +116,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 winter no-padding">
+        <div class="col-lg-4 col-sm-6 trinkeles no-padding">
           <div class="item-img">
             <a class="single-image" href="images/Akmens plytelės/20200609_151203.jpg"></a>
             <div class="part-img">
@@ -180,15 +143,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 rainy no-padding">
-          <div class="item-img">
-            <a class="single-image" href="images/FOTO/20160529_181007.jpg"></a>
-            <div class="part-img">
-              <img src="images/FOTO/20160529_181007.jpg" alt="image" />
-              <div class="overlay-img"></div>
-            </div>
-          </div>
-        </div>
+
         <div class="col-lg-4 col-sm-6 spring no-padding">
           <div class="item-img">
             <a class="single-image" href="images/skaldele/20180804_151223.jpg"></a>
@@ -225,9 +180,105 @@
             </div>
           </div>
         </div>
+
+        <div class="col-lg-4 col-sm-6 3d-vizualizacijos no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/3d-modeliavimas/kazlu ruda22.jpg"></a>
+            <div class="part-img">
+              <img src="images/3d-modeliavimas/kazlu ruda22.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 3d-vizualizacijos no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/3d-modeliavimas/Vainatrakis 333.jpg"></a>
+            <div class="part-img">
+              <img src="images/3d-modeliavimas/Vainatrakis 333.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 3d-vizualizacijos no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/3d-modeliavimas/varena 2.jpg"></a>
+            <div class="part-img">
+              <img src="images/3d-modeliavimas/varena 2.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+        <div class="col-lg-4 col-sm-6 dekoravimas-smeliu no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/smeliavimas/20160529_181007.jpg"></a>
+            <div class="part-img">
+              <img src="images/smeliavimas/20160529_181007.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 dekoravimas-smeliu no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/smeliavimas/20190516_180709.jpg"></a>
+            <div class="part-img">
+              <img src="images/smeliavimas/20190516_180709.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 dekoravimas-smeliu no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/smeliavimas/20201018_151346.jpg"></a>
+            <div class="part-img">
+              <img src="images/smeliavimas/20201018_151346.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+        <div class="col-lg-4 col-sm-6 trinkeles no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/trinkeles/20160819_175741.jpg"></a>
+            <div class="part-img">
+              <img src="images/trinkeles/20160819_175741.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 trinkeles no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/trinkeles/20210827_181031.jpg"></a>
+            <div class="part-img">
+              <img src="images/trinkeles/20210827_181031.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 trinkeles no-padding">
+          <div class="item-img">
+            <a class="single-image" href="images/20200721_153324.jpg"></a>
+            <div class="part-img">
+              <img src="images/20200721_153324.jpg" alt="image" />
+              <div class="overlay-img"></div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </div>
 <!-- End Gallery -->
-<?php include "footer.php"; ?>
+<?php include "full-view-footer.php"; ?>
